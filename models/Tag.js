@@ -7,7 +7,7 @@ const sequelize = require('../config/connection.js');
 // Define the Tag class which extends Sequelize's Model class
 class Tag extends Model {}
 
-// set up fields and rules for ProductTag model
+// set up fields and rules for Tag model
 Tag.init(
   {
     // define columns
