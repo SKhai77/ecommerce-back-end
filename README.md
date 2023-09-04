@@ -38,9 +38,6 @@ In order to be able to run the applicaton, you are required to do the following:
 - Install npm (Node Package Manager) inside the repo by typing the following code in the Command Line:
 
 ```
-    npm init -y                Press Enter
-```
-```
     npm install mysql2         Press Enter
 ```
 ```
