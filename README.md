@@ -1,8 +1,6 @@
 # Object-Relational Mapping (ORM): E-commerce Back End
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This project aims to build the back end for an e-commerce site shoestogo.com by modifying the provided starter code. It needs to configure a working Express.js API to use Sequelize to interact with a MySQL database.
-
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ This project aims to build the back end for an e-commerce site shoestogo.com by 
 
 ## Description
 
-This project amims to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+This project aims to build the back end for an e-commerce site by modifying the provided starter code. It needs to configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 
 ## Technologies
@@ -89,7 +87,7 @@ To use the application,
     npm start               Press Enter
 ```
 
-- Then, take action based on the Prompts option
+- Then, test all the different api routes.
 - Watch the walkthrough video. [Click here](https://drive.google.com/file/d/1ZC9RToX-dUfTEyTq9dFKVJGEk1nl478u/view)
 
 
